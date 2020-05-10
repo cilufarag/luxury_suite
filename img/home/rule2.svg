@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg5765"
+    viewBox="0 0 760.63 490.58"
+    version="1.1"
+  >
+  <g
+      id="layer1"
+      transform="translate(240.31 -101.36)"
+    >
+    <g
+        id="g1882"
+        transform="matrix(1.8176 0 0 1.8176 -240.31 -213.4)"
+      >
+      <g
+          id="g1884"
+        >
+        <path
+            id="path1886"
+            d="m89.25 279.01c21.589 0 39.087-17.499 39.087-39.084 0-21.589-17.498-39.091-39.087-39.091-21.585 0-39.085 17.502-39.085 39.091 0 21.585 17.5 39.084 39.085 39.084z"
+        />
+        <path
+            id="path1888"
+            d="m89.25 239.93"
+        />
+      </g
+      >
+      <path
+          id="path1890"
+          d="m173.65 228.84h156.23c22.921 0 36.423 14.753 36.423 34.504v56.552h-192.66v-91.056z"
+      />
+      <path
+          id="path1892"
+          d="m131.12 249.08v33.918h-60.069c-29 0.104-29.047 37.382 0 37.382h78.75c11.5 0 18.7-9.282 18.7-19.782v-51.518c0-28.222-37.381-28.222-37.381 0z"
+      />
+      <path
+          id="path1894"
+          d="m42.702 196.26c0-30.78-42.702-30.78-42.702 0v246.81h43.651v-63.74h332.12v63.261h42.7v-190.63c0-32.482-43.174-32.482-43.174 0v76.088h-332.59v-131.79z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Only bed</dc:title
+        >
+        <dc:date
+          >2013-08-18T18:56:24</dc:date
+        >
+        <dc:description
+          >bed pictogram, sign</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/181941/only-bed-by-cyberscooty-181941</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >cyberscooty</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >asleep</rdf:li
+            >
+            <rdf:li
+              >bed</rdf:li
+            >
+            <rdf:li
+              >lit</rdf:li
+            >
+            <rdf:li
+              >panneau</rdf:li
+            >
+            <rdf:li
+              >sign</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

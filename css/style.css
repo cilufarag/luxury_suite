@@ -1,0 +1,66 @@
+/* --> GENERAL <-- */
+
+.custom-container {
+  width: 85vw;
+  margin: 0 auto;
+}
+
+/* --> HERO SECTION <-- */
+
+.jumbotron{
+    
+    background: url("/~cgarafulic/LUXURY-SUITE/img/home/hero-dan-gold.jpg"); /* Local */
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+  }
+
+/* --> APARTMENT SECTION <-- */
+
+.apartment .card {
+  border: none !important;
+}
+
+/* --> RULES SECTION <-- */
+
+.rules .card:hover {
+  cursor: pointer;
+  box-shadow: 0 0px 16px rgba(0,0,0,0.35);
+}
+
+/* --> FORM SECTION <-- */
+
+.form-row .control-label:after {
+  content:"*";
+}
+
+.email-info input {
+  background-color: #DCEDF2 !important;
+  height: 3rem;
+}
+
+button > div {
+  height: 2rem;
+  font-size: 1.2rem;
+}
+
+/* --> RATINGS SECTION <-- */
+
+.card .rating > p {
+  border: solid 1px black;
+}
+
+.card p:nth-child(even) {
+  background: lightgrey;
+}
+
+/* --> FOOTER SECTION <-- */
+
+footer {
+  border-radius: 6px;
+}
+
+
+
+
+
